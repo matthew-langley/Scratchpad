@@ -1,1 +1,1 @@
-Sample docume
+Sample
