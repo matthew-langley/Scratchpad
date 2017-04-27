@@ -1,1 +1,1 @@
-This is a new Markdown section. Here is some **bold text**. Here is some itali
+This is a new Markdown section. Here is some **bold text**. Here is some italic text.
